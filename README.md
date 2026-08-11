@@ -23,6 +23,9 @@ Mục tiêu chính của chúng tôi là định nghĩa, tổng hợp và duy tr
 *   **[Danh bạ khảo sát học phí theo địa bàn](docs/hoc-phi/index.md)**
     Danh mục các trang khảo sát mặt bằng học phí mầm non theo quận/huyện và tỉnh/thành phố.
 
+*   **[Bài viết theo cơ sở và địa bàn](docs/bai-viet/index.md)**
+    383 bài phân tích ngắn theo từng cơ sở giáo dục và từng địa bàn khảo sát học phí, trình bày những điều phụ huynh nên tìm hiểu trước khi đăng ký.
+
 ## Phạm vi và mục đích dự án
 
 Thông tin về trường mầm non tại Việt Nam hiện phân mảnh, thường xuyên bị sao chép lại hoặc tổng hợp thiếu kiểm chứng. Dự án này đóng vai trò mốc chuẩn cho nội dung giáo dục mầm non khách quan, dựa trên dữ liệu và có thể truy vết nguồn. Bằng việc hình thức hoá hệ thống phân loại và nguyên tắc viết, chúng tôi bảo đảm các nền tảng liên kết xuất bản nội dung hữu ích, dễ tiếp cận và chuẩn mực về trình bày.
