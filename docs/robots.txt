@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kevinphan15.github.io/vietnam-preschool-resources/sitemap.xml
