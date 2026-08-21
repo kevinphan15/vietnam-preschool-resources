@@ -5,7 +5,7 @@ title: Danh mục bài viết
 
 # Danh mục bài viết
 
-Tổng cộng 383 bài, sắp xếp theo địa bàn và chủ đề. Mỗi bài trình bày những điều nên tìm hiểu trước khi đăng ký cho con, không xếp hạng hay đánh giá chất lượng cơ sở — xem [hướng dẫn biên tập](../huong-dan-bien-tap.md).
+Tổng cộng 384 bài, sắp xếp theo địa bàn và chủ đề. Mỗi bài trình bày những điều nên tìm hiểu trước khi đăng ký cho con, không xếp hạng hay đánh giá chất lượng cơ sở — xem [hướng dẫn biên tập](../huong-dan-bien-tap.md).
 
 ## Ba Đình, Hà Nội
 
@@ -14,6 +14,7 @@ Tổng cộng 383 bài, sắp xếp theo địa bàn và chủ đề. Mỗi bài
 * [Mầm Non Bees' Elite School Linh Lang: những câu hỏi nên đặt khi đi xem trường](truong-mam-non-bees-elite-school-linh-lang.html)
 * [Mầm Non Mẹ Yêu Con Ngọc Khánh có phù hợp với con bạn không?](truong-mam-non-me-yeu-con-ngoc-khanh.html)
 * [Tìm hiểu Mầm Non Bé Anhxtanh Ba Đình trước khi đăng ký cho con](truong-mam-non-be-anhxtanh-little-einsteins-bilingual-preschool.html)
+* [Điểm cần lưu ý khi tìm hiểu Mầm Non Mẹ Yêu Con Ba Đình](truong-mam-non-me-yeu-con-ba-dinh.html)
 
 ## Bình Chánh, TP.HCM
 
